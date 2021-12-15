@@ -1,2 +1,5 @@
 # git_test
-Using git.
+I am just testing git using the command line.
+Making commits, and all those things.
+You expect me to know about this by now, but NO!
+LOL, imma get it soon ;)
